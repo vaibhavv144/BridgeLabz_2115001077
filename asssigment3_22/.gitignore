@@ -1,0 +1,6 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore project file
+new project.csproj
