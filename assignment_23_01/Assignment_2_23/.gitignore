@@ -1,0 +1,8 @@
+
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore project file
+Assignment_2_23.csproj 
+Assignment_2_23.sln 
