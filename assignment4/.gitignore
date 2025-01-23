@@ -1,0 +1,9 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore project file
+assignment4.csproj
+assignment4.sln
+
+
