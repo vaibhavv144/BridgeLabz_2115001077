@@ -27,3 +27,18 @@
 * Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more.
 * Practiced problem based on level 2 Questions.
 
+## Task 7: DATE: 27/01/2025
+* Read about C# . User-Defined Methods, Using Methods Multiple Times,Making Methods More Dynamic
+* Read about Recursive Methods
+* Practiced problem based on these.
+
+## Task 8: DATE: 28-01-2025
+* Read about C# Static Methods in C# , .NET Standard Library Methods and System.Math Class in C#
+* Practiced problem based on level 1
+* Read about the best programming practices how should we name the variable and do not write hard code,and many more.
+
+##Task 9: DATE: 29-01-2025
+* Read about C# String Methods and String Handling concepts and read about string Methods
+* Practiced Problem Statements based on String.
+
+
