@@ -61,3 +61,11 @@
 ## Task 14: DATE: 04-02-2025
 * Read about C# constructor and this keyword in detail from dotnet.tutorials .
 * Practiced problems of the assignment.
+
+## Task 15: DATE:05-02-2025
+* Read about different diagrams like UML,Sequence and Object Diagram
+* Practised few questions on same.
+
+## Task 16: DATE: 06-02-2025
+* Read about Association, Aggregation and Composition.
+* Revised all the concepts of this week.
