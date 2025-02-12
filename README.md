@@ -69,3 +69,26 @@
 ## Task 16: DATE: 06-02-2025
 * Read about Association, Aggregation and Composition.
 * Revised all the concepts of this week.
+
+## Task 17: DATE: 07-02-2025
+* Read about C# Inheritance concepts and its levels of inheritance and Studied about Polymorphism and interfaces.
+* Practiced problem of assignment.
+
+## Task 18: DATE: 08-02-2025
+* Read about C# Inheritance concepts and interfaces and concepts used in Assignment.
+* Solved practice problems of Assignment on inheritance.
+
+## Task 19: DATE: 10-02-2025
+* Read about C# Polymorphism, abstract class and interface.
+* Read about C# Encapsulation.
+* Solved some practice problems of Assignment on Polymorphism, Encapsulation, interface and abstract class.
+
+## Task 20: DATE: 11-02-2025
+* Read about C# Data Structures and key features and Types of Data Structure.
+* Read about Introdution of LinkedList and single LinkedList , Double LinkedList and Circular LinkedList.
+* Solved some practice problems based on LinkedList.
+
+## Task 21: DATE: 12-02-2025
+* Read about C# Stack and key characterstics of stack and internal working of stack.
+* Read about C# Queue and key characterstics of queue and internal working of queue.
+* Solved some practice problems based on stacks and queues.
