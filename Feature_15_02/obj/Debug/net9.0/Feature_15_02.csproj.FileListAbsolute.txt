@@ -1,0 +1,15 @@
+F:\capgimini_BL\capg_daily_task\Feature_15_02\bin\Debug\net9.0\Feature_15_02.exe
+F:\capgimini_BL\capg_daily_task\Feature_15_02\bin\Debug\net9.0\Feature_15_02.deps.json
+F:\capgimini_BL\capg_daily_task\Feature_15_02\bin\Debug\net9.0\Feature_15_02.runtimeconfig.json
+F:\capgimini_BL\capg_daily_task\Feature_15_02\bin\Debug\net9.0\Feature_15_02.dll
+F:\capgimini_BL\capg_daily_task\Feature_15_02\bin\Debug\net9.0\Feature_15_02.pdb
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.AssemblyInfoInputs.cache
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.AssemblyInfo.cs
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.csproj.CoreCompileInputs.cache
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.sourcelink.json
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.dll
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\refint\Feature_15_02.dll
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.pdb
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\Feature_15_02.genruntimeconfig.cache
+F:\capgimini_BL\capg_daily_task\Feature_15_02\obj\Debug\net9.0\ref\Feature_15_02.dll
