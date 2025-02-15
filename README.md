@@ -100,3 +100,7 @@
 ## Task 23: DATE: 14-02-2025
 * Read about different sorting algos.
 * Done ques on Bubble, Insertion and Merge sort.
+
+## Task 24: DATE: 15-02-2025
+* Read about different methods of String and File Handling.
+* Done ques on String methods and File handling.
