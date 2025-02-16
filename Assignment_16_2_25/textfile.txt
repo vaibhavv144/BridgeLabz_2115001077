@@ -1,0 +1,8 @@
+1.Namespaces Required:  System.IO namespace.
+2.Common Classes: Important classes include File, FileInfo, StreamReader, StreamWriter, FileStream, and BinaryReader/BinaryWriter.
+3.Reading Files: Use StreamReader or File.ReadAllText() to read text files.
+4.Writing Files: Use StreamWriter or File.WriteAllText() to write data to files.
+5.Appending Data: File.AppendAllText() or StreamWriter with true appends data to an existing file.
+6.Checking File Existence: Use File.Exists() before performing operations to avoid errors.
+7.Handling Exceptions: Always use try-catch blocks to handle IOException and UnauthorizedAccessException.
+8.Using Statements: The using statement ensures that file resources are properly closed after use.
