@@ -104,3 +104,8 @@
 ## Task 24: DATE: 15-02-2025
 * Read about different methods of String and File Handling.
 * Done ques on String methods and File handling.
+
+## Task 25: DATE: 17-02-2025
+* Read About General Algorithm Best Practices and Time and space Complexity Optimization
+* Read About Runtime Analysis, Understanding Big-O Notation,Time Complexity Analysis, Space Complexity Analysis
+* Solved some practice problems based on Assignment.
