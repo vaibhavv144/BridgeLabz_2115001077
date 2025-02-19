@@ -113,3 +113,7 @@
 ## Task 26: DATE: 18-02-2025
 * Read About Generic class in C#
 * Solved some practice problems based on Assignment.
+
+## Task 27: DATE: 19-02-2025
+* Read About Collections in C#
+* Solved some practice problems based on Assignment.
