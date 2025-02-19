@@ -1,0 +1,12 @@
+﻿class Program {
+    public static void Main(String[] args) {
+
+        //Test1.Print();
+        // Test2.Print(); 
+        // Test3.Print();
+        // Test4.Print();
+        //  Test5.Print();
+           //Test6.Print();
+           Test19.Print();
+    }
+}
