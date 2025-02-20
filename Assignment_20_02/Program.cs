@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program{
+    public static void Main(String[] args) {
+
+        Test1.Print();
+        Test2.Print();
+        Test3.Print();
+        Test4.Print();
+        Test5.Print();
+        Test6.Print();
+        Test7.Print();
+        Test8.Print();
+        Test9.Print();
+        Test10.Print();
+
+
+    }
+}
