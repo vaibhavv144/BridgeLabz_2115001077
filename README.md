@@ -121,3 +121,7 @@
 ## Task 28: DATE: 20-02-2025
 * Read About Exceptions in C#
 * Solved some practice problems based on Assignment.
+
+## Task 29: DATE: 21-02-2025
+* Revised all the topics of this week.
+* Solved some practice problems based on Assignment.
