@@ -125,3 +125,8 @@
 ## Task 29: DATE: 21-02-2025
 * Revised all the topics of this week.
 * Solved some practice problems based on Assignment.
+
+## Task 31: DATE: 22-02-2025
+* Read About C# Regular Expressions.
+* Read About NUnit Framework.
+* Solved problems based on C# Regex Assignment.
