@@ -130,3 +130,8 @@
 * Read About C# Regular Expressions.
 * Read About NUnit Framework.
 * Solved problems based on C# Regex Assignment.
+
+## Task 32: DATE: 24-02-2025
+* Read About C# Reflection and use it on method constructor field and methods.
+* Read About C# Annotations and usage.
+* Solved problems based on C# Reflection Assignment.
