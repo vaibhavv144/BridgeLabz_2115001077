@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "Name": "Shivam Kumar Rajput",
+    "Age": 20,
+    "Marks": 85
+  },
+  {
+    "ID": 2,
+    "Name": "Vaibhav Singh",
+    "Age": 21,
+    "Marks": 79
+  },
+  {
+    "ID": 3,
+    "Name": "Shudhanshu Trivedi",
+    "Age": 22,
+    "Marks": 88
+  }
+]
