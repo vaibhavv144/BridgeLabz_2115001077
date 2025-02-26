@@ -135,3 +135,13 @@
 * Read About C# Reflection and use it on method constructor field and methods.
 * Read About C# Annotations and usage.
 * Solved problems based on C# Reflection Assignment.
+
+## Task 33: DATE: 25-02-2025
+* Read About C# CSV Data Handling.
+* Read About how to perform read data from csv write data in csv and modify csv.
+* Solved problems based on C# CSV Data Handling Assignment.
+
+## Task 34: DATE: 26-02-2025
+* Read About C# JSON Data Handling.
+* Read About how to perform read data from JSON write data in JSON.
+* Solved problems based on C# JSON Data Handling Assignment.
