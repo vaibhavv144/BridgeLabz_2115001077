@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD819E2-4A28-44D9-9FA2-698DDD194A9E}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\repositorylayer\\services\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21427F6E-7525-4117-824C-AD8F0B43FF29}|..\\ModelLayer\\ModelLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\modellayer\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BDC3-AEF1-4943-A93B-E852EB23E555}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\bussinesslayer\\services\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BDC3-AEF1-4943-A93B-E852EB23E555}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\bussinesslayer\\services\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\userregistration\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{052B7984-7B75-47BB-9614-F9B5B8F5D239}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21427F6E-7525-4117-824C-AD8F0B43FF29}|..\\ModelLayer\\ModelLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD819E2-4A28-44D9-9FA2-698DDD194A9E}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BDC3-AEF1-4943-A93B-E852EB23E555}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capgimini_bl\\test\\assignment_28_02\\bussinesslayer\\bussinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:51:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\ModelLayer\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\User.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\ModelLayer\\DTO\\User.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:42:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelLayer",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "..\\ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T17:41:39.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\RepositoryLayer\\Services\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\UserRegistrationRL.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\RepositoryLayer\\Services\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Services\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:40:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\Services\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\Services\\UserRegistrationBL.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\Services\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\Services\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:39:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\Services\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\Services\\ResponseModel.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\Services\\ResponseModel.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\Services\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:38:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:36:04.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T17:44:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\UserRegistration\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:52:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryLayer",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T17:40:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BussinessLayer",
+              "DocumentMoniker": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\BussinessLayer.csproj",
+              "ToolTip": "F:\\capgimini_BL\\test\\Assignment_28_02\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeToolTip": "..\\BussinessLayer\\BussinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T17:37:47.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
