@@ -151,5 +151,9 @@
 * Made a project HelloApp demonstrating 3-tier Architecture of .Net Core framework.
 
 ## Task 36: DATE: 28-02-2025
-* Learnt About Model layer with # layer Architecture.
+* Learnt About Model layer with 3 layer Architecture.
 * Made a project HelloApp demonstrating 3-tier Architecture with Model Layer of .Net Core framework.
+
+## Task 37: DATE: 01-03-2025
+* Learnt more About Model layer with 3 layer Architecture.
+* Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog and also use entity.
